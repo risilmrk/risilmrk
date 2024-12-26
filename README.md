@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Risil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<a href="https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risilmrk&label=Profile%20views&color=0e75b6&style=flat" alt="risilmrk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=risilmrk" alt="risilmrk" /></a> </p>
